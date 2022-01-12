@@ -1,1 +1,3 @@
 coverage/
+mysql/data/
+mongodb/data/
